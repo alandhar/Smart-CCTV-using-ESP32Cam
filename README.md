@@ -16,3 +16,5 @@ Perangkat ini menggunakan aplikasi Telegram untuk mengatur atau memantau perangk
 3. Menghidup atau matikan LED
 4. Menghidup atau matikan buzzer
 5. Mengatur jarak yang dapat dideteksi perangkat
+
+Untuk melihat laporan lengkap dari Project Kelompok kami dapat melihat [Jurnal berikut](Jurnal IoT-Kijang Emas.pdf)
